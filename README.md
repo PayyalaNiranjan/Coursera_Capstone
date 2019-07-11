@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Capstone_Project
+This Capstone Project involve some Foursquare API which will used for this Project Preliminarly
