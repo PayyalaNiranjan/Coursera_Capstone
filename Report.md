@@ -292,7 +292,7 @@ Stakeholder further explain that the rating is a range from 1.0 (worst) to 5.0 (
 
 Let's visualize the location of cinemas, target location and stakeholder's favourite cinemas on the map
 
-![map](cinema_map.JPG)
+![map](cinema_map.jpg)
 
 
 Most of Hong Kong cinemas (blue circle) and stakeholder's favourite cinemas (red circle) location are built near main road and centralized in urban area of Hong Kong.
@@ -303,7 +303,7 @@ The target locations (yellow circle) of new cinema are not near to main road.
 Now, let's use __Content-Based__ or __Item-Item recommendation systems__. In this case, I am going to try to figure out the boss's favourite new cinema location by counting number of nearby venues and ratings given.
 
 Following diagram explain the steps to create the recommendation
-![content-base-filtering](content-base-filtering.PNG)
+![content-base-filtering](content-base-filtering.png)
 
 
 1. Normalize the values of venues dataframe by using MinMaxScaler method and display the first 5 records
